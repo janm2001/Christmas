@@ -30,7 +30,7 @@ nav{
 #section{
     background:url("img/bg2.jpg");
     background-size: cover;
-    height: 2000px;
+    
     color:#fff;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding-top:200px;
@@ -53,4 +53,14 @@ nav{
 
 #section h3{
     border-bottom: 1px solid #fff;  
+}
+
+#songs{
+    background: #fff;
+    color:#000;
+}
+
+#songs h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 2px solid red;
 }
